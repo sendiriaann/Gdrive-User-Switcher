@@ -29,5 +29,5 @@ current feature:
 ![3](https://media.discordapp.net/attachments/899871890783498300/1434019923591561278/image.png?ex=6906cea0&is=69057d20&hm=b9ea1d9c58fedf82a797ab5a5f0f498a895c927f5cdd1995f790ba94239bd2b9&=&format=webp&quality=lossless)
 
 ⚠ Refresh page after activating script<br/>
-⚠ This script cannot see your logged in accounts, so you must add, rename, remove accordingly to every change (its easy dw)
+⚠ This script cannot see your logged in accounts, so you must add, rename, remove accordingly to every change (its easy dw)<br/>
 ⚠ chatGPT plays major role in coding this piece, though all feature are tested personally since I use it a lot. You're free to edit if you want tho 😘
