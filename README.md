@@ -30,3 +30,4 @@ current feature:
 
 ⚠ Refresh page after activating script<br/>
 ⚠ This script cannot see your logged in accounts, so you must add, rename, remove accordingly to every change (its easy dw)
+⚠ chatGPT plays major role in coding this piece, though all feature are tested personally since I use it a lot. You're free to edit if you want tho 😘
