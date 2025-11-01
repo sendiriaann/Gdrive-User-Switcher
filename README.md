@@ -1,6 +1,8 @@
 # Gdrive-User-Switcher
 User switcher for Google Drive, because Google won't
-install through greasemonkey
+### install through [greasemonkey](https://greasyfork.org/en/scripts/554375-google-drive-user-switcher)
+or manually [through the code provided above](https://github.com/sendiriaann/Gdrive-User-Switcher/blob/main/Google%20Drive%20User%20Switcher-1.0.user.js)
+
 ---
 
 You opened a folder someone shared with you, yet you access it through the wrong account<br/>
@@ -8,10 +10,10 @@ switching through the usual account dropdown will log you out of the folder and 
 this sucks, and it seems nobody else care much about this so I (ask chatGPT to) make this lil script
 
 the script just fetch current gdrive link you're in:<br/>
-https://drive.google.com/drive/home
+```https://drive.google.com/drive/home```
 
 then adds "/u/(number)/" into it:<br/>
-https://drive.google.com/drive/u/0/home
+```https://drive.google.com/drive/u/0/home```
 
 the number correspond to your google account list, which is based on whichever account logged in first<br/>
 0 for default account, 1 for 2nd account, 2 for 3rd, so on<br/>
