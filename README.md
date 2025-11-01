@@ -1,6 +1,6 @@
 # Gdrive-User-Switcher
 User switcher for Google Drive, because Google won't
-
+install through greasemonkey
 ---
 
 You opened a folder someone shared with you, yet you access it through the wrong account<br/>
