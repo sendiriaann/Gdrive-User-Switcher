@@ -24,7 +24,7 @@ just add however many accounts you have, and you're set<br>
 ---
 
 current feature:
-- Quick user combobox list
+- Quick user combobox selection
 - Add, Edit, Remove user from list (does not actually logout your account, just from the quick selection)
 ![3](https://media.discordapp.net/attachments/899871890783498300/1434019923591561278/image.png?ex=6906cea0&is=69057d20&hm=b9ea1d9c58fedf82a797ab5a5f0f498a895c927f5cdd1995f790ba94239bd2b9&=&format=webp&quality=lossless)
 
