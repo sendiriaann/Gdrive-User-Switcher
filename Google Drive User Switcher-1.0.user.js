@@ -7,6 +7,7 @@
 // @match        https://drive.google.com/drive/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
 // @grant        none
+// @license      MIT
 // @require      https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js
 // ==/UserScript==
 
